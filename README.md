@@ -1,20 +1,8 @@
 ### 👋 Greetings!  👋
 
-I am Mateus Timm!
-Studying Computer Engeneering at Universidade Anhembi Morumbi and living in São Paulo, Brazil, I currentely work as Technical Support Analyst, troubleshooting Windows SO and apps, and as Product Owner on internal projects using agile methodologies.
-I also have some personal projects and from university using JAVA, Python, NodeJS C++, SpringBoot. 
-I am enthusiastic about programming, which is one of my hobbies, I like to be evolving my projects, my career and personal life, I am a perfectionist and attentive to details. I like to organize things, find more efficient and practical ways, trying to deliver with the best quality, I try to leave my codes clean, organized and explanatory.
-I am enthusiastic about infrastructure, with personal projects I develop various knowledge, such as the creation of a home server, the development of a Bot for social networking and applications for entertainment. I like to seek knowledge in new areas, such as cloud implementations, pipeline organization and understanding new codes and languages. I am also adept at DevOps culture.
-I am interested in working with development, mainly to acquire new knowledge.
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😀 I'm Mateus Timm!
+- 🎓 I'm currently studying Computer Engeneering at Universidade Anhembi Morumbi
+- 🌱 I’m currently learning Java, Python and C++
+- 💻 I’m currently working as Technical Support Analyst and as Product Owner
+- 🌎 I'm Brazilian and German, living in São Paulo, Brazil
+- 👨‍💻 I'm looking to work as a Developer
